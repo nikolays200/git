@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <!--    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">-->
@@ -6,7 +5,7 @@
 <!--    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0, user-scalable=0"
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0, user-scalable=0">
     <meta name="description" content="My First projekt shpp+ HTML">
     <meta name="keywords" content="My First, projekt shpp,+ HTML">
     <meta property="og:type" content="article" />
